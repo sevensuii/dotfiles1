@@ -1,0 +1,14 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Carpeta de inicio[path]/home/sevensuii"
+"Escritorio[path]/home/sevensuii/Desktop"
+"Colecciones[path]/home/sevensuii/.local/share/geeqie/collections"
+
+[path_list]
+"/home/sevensuii/Pictures/1wallpappers"
+"/home/sevensuii/1x"
+"/home/sevensuii/.config/qtile/icons"
+
+#end
